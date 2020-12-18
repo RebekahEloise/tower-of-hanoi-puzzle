@@ -1,2 +1,44 @@
 
 /*  Put your CSS Here */
+
+#game {
+    background-color:gray;
+    height: 50rem;
+    display: flex;
+}
+
+.box {
+    border: 1px double black;
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+
+.Hanoi {
+    height: 10rem;
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+ 
+#disk1 {
+    background-color: blue;
+    width: 200px;
+}
+
+#disk2 {
+    background-color: red;
+    width: 300px;
+}
+
+#disk3 {
+    background-color: green;
+    width: 400px;
+}
+
+#disk4 {
+    background-color: yellow;
+    width: 500px;
+}
