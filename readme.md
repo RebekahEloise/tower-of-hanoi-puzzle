@@ -1,3 +1,5 @@
-# Tower of Hanoi
+Tower of Hanoi Puzzle
 
-Follow the instructions on my.kenzie.academy to complete the assignment.
+Facilitates a user playing the Tower of Hanoi Game. Written in JavaScript.
+
+Author: Rebekah Eloise Miller
